@@ -1,2 +1,5 @@
-# rfc9635_gonap
-RFC 9635 implementation in Go
+# GoNap
+[RFC 9635](https://datatracker.ietf.org/doc/html/rfc9635) implementation in Go
+
+## TODO
+- [ ] Subject field in request
